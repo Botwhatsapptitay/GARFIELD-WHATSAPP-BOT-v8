@@ -23,9 +23,9 @@ global.notice = ` *Hi 🥰 I m*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+212770007847'] //👈  Enter Your number
-global.premium =  ['+212770007847'] //👈  Enter Your number
-global.ownernomer = '+212770007847' //👈  Enter Your number
+global.owner =  ['+212 619-860302'] //👈  Enter Your number
+global.premium =  ['+212 619-860302'] //👈  Enter Your number
+global.ownernomer = '+212 619-860302' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
 global.botname = 'KENAN ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 KENAN 𝖡𝗈𝗍' //👈 Enter Your Name
