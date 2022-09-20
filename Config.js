@@ -18,7 +18,7 @@ global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
 * ༆ ☕︎ 𝙺𝙴𝙽𝙰𝙽 ☕︎༆➪•••♪❦︎☠︎ Ξ*
 *I am 16 years old developer...*
-*From Morocco 🇲🇦🖤*
+*From Morocco 🖤🇲🇦🖤*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
